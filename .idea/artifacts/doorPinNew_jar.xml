@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="doorPinNew:jar">
+    <output-path>E:/Testing Servers/1.14.4 Paper/plugins</output-path>
+    <root id="archive" name="doorPinNew.jar">
+      <element id="module-output" name="doorPinNew" />
+    </root>
+  </artifact>
+</component>

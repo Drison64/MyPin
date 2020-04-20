@@ -1,0 +1,10 @@
+name: MyPin
+version: 0.2-DEV
+author: Drison64
+main: me.Drison64.doorPin.Main
+api-version: 1.14
+commands:
+  mypin:
+    aliases:
+      - pin
+    description: Basic command.

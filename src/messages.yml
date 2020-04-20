@@ -1,0 +1,22 @@
+pin:
+  setup:
+    - " "
+    - " "
+    - "cc setup u know what to do"
+    - " "
+    - " "
+  pinAlreadyOnBlock:
+    - " "
+    - " "
+    - "Bitch na tomto blocku uz je pin kundo"
+    - " "
+    - " "
+    - " "
+  help:
+    - " "
+    - "              &b&lHELP"
+    - " "
+    - "&f- &3&l/pin &f&l- &bShows this message."
+    - "&f- &3&l/pin add &f&l- &bStarts pin setup."
+    - "&f- &3&l/pin edit &f&l- &bEdits existing pin."
+    - " "
